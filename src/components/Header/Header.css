@@ -1,3 +1,5 @@
 h1 {
   font-family: 'DEC Terminal Modern', sans-serif;
+  text-transform: uppercase;
+  font-size: 2.5rem;
 }
