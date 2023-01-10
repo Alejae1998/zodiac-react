@@ -1,3 +1,11 @@
+.zodiac-sign {
+  width: 250px;
+  display: inline-block;
+  padding: 35px;
+  boder: 3px solid black;
+  border-radius: 8px;
+  background-color: rgb(252, 3, 111);
+}
 .zodiacs-container img {
   width: 120px;
 }
