@@ -1,11 +1,11 @@
 footer {
-  color: var(--color3);
   height: 40px;
-  background-color: var(--color5);
+  font-family: 'DEC Terminal Modern', sans-serif;
   display: flex;
   align-items: center;
   justify-content: flex-end;
   position: fixed;
   width: 100%;
   bottom: 0;
+  font-weight: 700;
 }
